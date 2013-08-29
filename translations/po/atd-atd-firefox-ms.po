@@ -1,0 +1,231 @@
+# Translation of Firefox Add-on in Malay
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:25:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr "Perkataan Berulang"
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr "Tiada cadangan"
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr "Periksa Ejaan dan Tatabahasa"
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr "Bahasa Penyemakan pruf"
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr "Bantuan After the Deadline"
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr "Frasa-frasa yang perlu dielakkan"
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr "Huraikan..."
+
+#: overlay.dtd:1
+msgid "c"
+msgstr "c"
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr "Frasa Lewah"
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr "Abai sentiasa"
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr "Tambah"
+
+#: prefs.dtd:20
+msgid "English"
+msgstr "Inggeris"
+
+#: prefs.dtd:21
+msgid "French"
+msgstr "Perancis"
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr "Suara Pasif"
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr "Tiada ralat penulisan dijumpai."
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr "Terdapat masalah ketika berkomunikasi dengan servis After the Deadline. Sila cuba lagi dalam masa satu minit."
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr "Pemilihan After the Deadline"
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr "Portugis"
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr "Sepanyol"
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr "Carian-automatik bahasa ketika penyemakan pruf"
+
+#: atd.properties:18
+msgid "edit text"
+msgstr "sunting teks"
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr "Penulisan Pembaca Pruf"
+
+#: atd.properties:17
+msgid "proofread"
+msgstr "pembaca pruf"
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr "Guna AtD pada Laman ini"
+
+#: prefs.dtd:22
+msgid "German"
+msgstr "Jerman"
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr "Jangan guna After the Deadline pada domain berikut:"
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr "Frasa-frasa yang diabaikan"
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr "Baca dokumentasi"
+
+#: prefs.dtd:1
+msgid "by"
+msgstr "oleh"
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr "Ejaan"
+
+#: overlay.dtd:5
+msgid "a"
+msgstr "a"
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr ""
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr "After the Deadline: Serahkan amaran"
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr ""
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr "Ganti pilihan dengan:"
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr "After the Deadline: Sunting pilihan"
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr "Sunting Pilihan..."
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr "Abai semua"
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr "Jargon"
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr "Bahasa Prasangka"
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr "Pengaktifan:"
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr ""
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr ""
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr ""
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr ""
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr "Abai cadangan"
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr "Terdapat ralat ketika menghubungi servis penyemakan pruf."
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr "Klisé"
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr "Frasa-frasa Rumit"
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr "Tanda Diakritis"
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr "Negatif Berganda"
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr "Kata Kerja Tersembunyi"
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr ""
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr "After the Deadline: Ralat pada sambungan"
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr ""

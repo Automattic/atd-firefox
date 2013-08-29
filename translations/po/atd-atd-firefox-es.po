@@ -1,0 +1,231 @@
+# Translation of Firefox Add-on in Spanish (Spain)
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:27:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr ""
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr ""
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr ""
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr ""
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr ""
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr ""
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr ""
+
+#: overlay.dtd:1
+msgid "c"
+msgstr ""
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr ""
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr ""
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr ""
+
+#: prefs.dtd:20
+msgid "English"
+msgstr ""
+
+#: prefs.dtd:21
+msgid "French"
+msgstr ""
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr ""
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr ""
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr ""
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr ""
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr ""
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr ""
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr ""
+
+#: atd.properties:18
+msgid "edit text"
+msgstr ""
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr ""
+
+#: atd.properties:17
+msgid "proofread"
+msgstr ""
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr ""
+
+#: prefs.dtd:22
+msgid "German"
+msgstr ""
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr ""
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr ""
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr ""
+
+#: prefs.dtd:1
+msgid "by"
+msgstr ""
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr ""
+
+#: overlay.dtd:5
+msgid "a"
+msgstr ""
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr ""
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr ""
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr ""
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr ""
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr ""
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr ""
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr ""
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr ""
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr ""
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr ""
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr ""
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr ""
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr ""
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr ""
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr ""
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr ""
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr ""
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr ""
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr ""
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr ""
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr ""
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr ""
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr ""
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr ""

@@ -1,0 +1,32 @@
+<!ENTITY title "Preferências After the Deadline">
+<!ENTITY by "por">
+<!ENTITY documentation "Leia a documentação">
+<!ENTITY activation.label "Activação:">
+<!ENTITY key.label "Activar a revisão com a seguinte combinação de teclas:">
+<!ENTITY warn.label "Avisar-me quando os envios de formulários não foram revistos.">
+<!ENTITY nativeSpell.label "Permitir o corrector do Firefox em formulários do AtD.">
+<!ENTITY proofreadingRules.label "Activar as seguintes verificações de gramática e estilo em Inglês:">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "Clichés">
+<!ENTITY proofreadingRules.complex.label "Frases Complexas">
+<!ENTITY proofreadingRules.diacritical.label "Marcas Diacríticas">
+<!ENTITY proofreadingRules.doubleNeg.label "Negativas Duplas">
+<!ENTITY proofreadingRules.hiddenVerbs.label "Verbos Escondidos">
+<!ENTITY proofreadingRules.jargon.label "Jargão">
+<!ENTITY proofreadingRules.passive.label "Voz Passiva">
+<!ENTITY proofreadingRules.avoid.label "Frases a Evitar">
+<!ENTITY proofreadingRules.redundant.label "Frases Redundantes">
+
+<!ENTITY proofreadingLanguage.label "Idioma de Revisão">
+<!ENTITY proofreadingLanguage.english.label "Inglês">
+<!ENTITY proofreadingLanguage.french.label "Francês">
+<!ENTITY proofreadingLanguage.german.label "Alemão">
+<!ENTITY proofreadingLanguage.portuguese.label "Português">
+<!ENTITY proofreadingLanguage.spanish.label "Espanhol">
+<!ENTITY proofreadingLanguage.guess.label "Detectar idioma automaticamente na revisão">
+
+
+<!ENTITY ignorePhrases.label "Frases Ignoradas">
+<!ENTITY ignorePhrases.add.label "Adicionar">
+<!ENTITY ignoreDomains.label "Não usar After the Deadline neste domínios:">
+<!ENTITY ignoreDomains.add.label "Adicionar">

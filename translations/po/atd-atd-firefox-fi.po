@@ -1,0 +1,231 @@
+# Translation of Firefox Add-on in Finnish
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:23:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr "Toistettu sana"
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr "Ei ehdotuksia."
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr "Tarkista oikeinkirjoitus ja kielioppi"
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr "Oikoluettava kieli:"
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr "After the Deadline-ohjeet"
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr "Vältettävät fraasit"
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr "Selitä..."
+
+#: overlay.dtd:1
+msgid "c"
+msgstr "c"
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr "Turhat fraasit"
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr "Ohita aina"
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr "Lisää"
+
+#: prefs.dtd:20
+msgid "English"
+msgstr "Englanti"
+
+#: prefs.dtd:21
+msgid "French"
+msgstr "Ranska"
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr "Passiivinen ääni"
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr "Kirjoitusvirheitä ei löytynyt."
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr "Ilmeni virhe yrittäessä yhdistää After the Deadline-palveluun. Yritä uudelleen hetken kuluttua."
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr "After the Deadline-asetukset"
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr "Portugali"
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr "Espanja"
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr "Automaattinen kielen valinta kirjoittaessa."
+
+#: atd.properties:18
+msgid "edit text"
+msgstr "muokkaa tekstiä"
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr "Oikolue kirjoitus"
+
+#: atd.properties:17
+msgid "proofread"
+msgstr "oikolue"
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr "Käytä AtD-lisäosaa tällä sivustolla"
+
+#: prefs.dtd:22
+msgid "German"
+msgstr "Saksa"
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr "Älä käytä After the Deadline-lisäosaa seuraavissa osoitteissa:"
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr "Ohitetut fraasit"
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr "Lue dokumentti"
+
+#: prefs.dtd:1
+msgid "by"
+msgstr "tehnyt:"
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr "Oikeinkirjoitus"
+
+#: overlay.dtd:5
+msgid "a"
+msgstr "a"
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr "After the Deadline o havainnut oikeinkirjoitus- ja kielioppivirheitä, joita et ole arvioinut. Haluatko silti lähettää lomakkeen tällaisenaan?"
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr "After the Deadline: Lähetysvaroitus"
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr "After the Deadline ei tavoittanut palvelinta. Ole hyvä ja tarkista Internet-yhteytesi tila ja yritä uudelleen."
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr "Korvaa valinta kohteella:"
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr "After the Deadline: Muokkaa valintaa"
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr "Muokkaa valintaa..."
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr "Ohita kaikki"
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr "Slangi"
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr "Bias-kieli"
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr "Aktivointi:"
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr "Aktivoi oikoluku seuraavilla oikonäppäimillä:"
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr "Varoita, jos lomakkeen tietoja ei ole oikoluettu ennen lähetystä."
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr "Salli Firefox-oikoluku AtD:ssa laatikkokentissä."
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr "Salli seuraavat englannin kielen kielioppi- ja tyylivalinnat:"
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr "Ohita ehdotus"
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr "Ilmeni virhe yrittäessä muodostaa yhteyttä oikolukupalveluun."
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr "Kliseet"
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr "Monimutkaiset lauseet"
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr "Tarkemerkit"
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr "Tuplanegatiivit"
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr "Piilotetut verbit"
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr "Oikolukijalla on vielä parannusehdotuksia tähän tekstiin. Oletko varma, että haluat julkaista sen? Paina OK julkaistaksesi tekstin tai Peruuta nähdäksesi parannusehdotukset ja muokataksesi tekstiä."
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr "After the Deadline: Yhteysvirhe"
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr "Oikolukijalla on vielä parannusehdotuksia tähän tekstiin. Oletko varma, että haluat päivittää sen? Paina OK päivittääksesi tekstin tai Peruuta nähdäksesi parannusehdotukset ja muokataksesi tekstiä. "

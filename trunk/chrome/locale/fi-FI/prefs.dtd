@@ -1,0 +1,32 @@
+<!ENTITY title "After the Deadline-asetukset">
+<!ENTITY by "tehnyt:">
+<!ENTITY documentation "Lue dokumentti">
+<!ENTITY activation.label "Aktivointi:">
+<!ENTITY key.label "Aktivoi oikoluku seuraavilla oikonäppäimillä:">
+<!ENTITY warn.label "Varoita, jos lomakkeen tietoja ei ole oikoluettu ennen lähetystä.">
+<!ENTITY nativeSpell.label "Salli Firefox-oikoluku AtD:ssa laatikkokentissä.">
+<!ENTITY proofreadingRules.label "Salli seuraavat englannin kielen kielioppi- ja tyylivalinnat:">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "Kliseet">
+<!ENTITY proofreadingRules.complex.label "Monimutkaiset lauseet">
+<!ENTITY proofreadingRules.diacritical.label "Tarkemerkit">
+<!ENTITY proofreadingRules.doubleNeg.label "Tuplanegatiivit">
+<!ENTITY proofreadingRules.hiddenVerbs.label "Piilotetut verbit">
+<!ENTITY proofreadingRules.jargon.label "Slangi">
+<!ENTITY proofreadingRules.passive.label "Passiivinen ääni">
+<!ENTITY proofreadingRules.avoid.label "Vältettävät fraasit">
+<!ENTITY proofreadingRules.redundant.label "Turhat fraasit">
+
+<!ENTITY proofreadingLanguage.label "Oikoluettava kieli:">
+<!ENTITY proofreadingLanguage.english.label "Englanti">
+<!ENTITY proofreadingLanguage.french.label "Ranska">
+<!ENTITY proofreadingLanguage.german.label "Saksa">
+<!ENTITY proofreadingLanguage.portuguese.label "Portugali">
+<!ENTITY proofreadingLanguage.spanish.label "Espanja">
+<!ENTITY proofreadingLanguage.guess.label "Automaattinen kielen valinta kirjoittaessa.">
+
+
+<!ENTITY ignorePhrases.label "Ohitetut fraasit">
+<!ENTITY ignorePhrases.add.label "Lisää">
+<!ENTITY ignoreDomains.label "Älä käytä After the Deadline-lisäosaa seuraavissa osoitteissa:">
+<!ENTITY ignoreDomains.add.label "Lisää">

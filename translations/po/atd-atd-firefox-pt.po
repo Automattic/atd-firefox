@@ -1,0 +1,231 @@
+# Translation of Firefox Add-on in Portuguese (Portugal)
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:26:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr "Palavra Repetida"
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr "Nenhuma sugestão"
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr "Verificar Ortografia e Gramática"
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr "Idioma de Revisão"
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr "Ajuda After the Deadline"
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr "Frases a Evitar"
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr "Explicar..."
+
+#: overlay.dtd:1
+msgid "c"
+msgstr "c"
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr "Frases Redundantes"
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr "Ignorar sempre"
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr "Adicionar"
+
+#: prefs.dtd:20
+msgid "English"
+msgstr "Inglês"
+
+#: prefs.dtd:21
+msgid "French"
+msgstr "Francês"
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr "Voz Passiva"
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr "Não foi encontrado nenhum erro de escrita."
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr "Ocorreu um problema ao comunicar com o serviço After the Deadline. Tente de novo daqui a um minuto."
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr "Preferências After the Deadline"
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr "Português"
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr "Espanhol"
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr "Detectar idioma automaticamente na revisão"
+
+#: atd.properties:18
+msgid "edit text"
+msgstr "editar texto"
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr "Rever Escrita"
+
+#: atd.properties:17
+msgid "proofread"
+msgstr "rever"
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr "Usar AtD neste Site"
+
+#: prefs.dtd:22
+msgid "German"
+msgstr "Alemão"
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr "Não usar After the Deadline neste domínios:"
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr "Frases Ignoradas"
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr "Leia a documentação"
+
+#: prefs.dtd:1
+msgid "by"
+msgstr "por"
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr "Ortografia"
+
+#: overlay.dtd:5
+msgid "a"
+msgstr "a"
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr "After the Deadline detectou erros de ortografia e gramática que não foram revistos. Quer enviar o formulário mesmo assim?"
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr "After the Deadline: Aviso de envio"
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr "After the Deadline não cosneguiu conectar-se ao servidor. Por favor verifique a sua ligação à internet e volte a tentar."
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr "Substituir a selecção com:"
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr "After the Deadline: Editar selecção"
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr "Editar Selecção..."
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr "Ignorar todas"
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr "Jargão"
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr "Linguagem Tendenciosa"
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr "Activação:"
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr "Activar a revisão com a seguinte combinação de teclas:"
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr "Avisar-me quando os envios de formulários não foram revistos."
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr "Permitir o corrector do Firefox em formulários do AtD."
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr "Activar as seguintes verificações de gramática e estilo em Inglês:"
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr "Ignorar sugestão"
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr "Ocorreu um erro ao comunicar com o serviço de revisão."
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr "Clichés"
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr "Frases Complexas"
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr "Marcas Diacríticas"
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr "Negativas Duplas"
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr "Verbos Escondidos"
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr "O revisor tem sugestões para este post. Tem a certeza que o quer publicar? Clique em OK para publicar ou Cancelar para ver as sugestões e editá-lo."
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr "After the Deadline: Erro de conexão"
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr "O revisor tem sugestões para este post. Tem a certeza que o quer publicar? Clique em OK para publicar ou Cancelar para ver as sugestões e editá-lo."

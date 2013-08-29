@@ -1,0 +1,231 @@
+# Translation of Firefox Add-on in Norwegian
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:26:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr "Gjentatt ord"
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr "Ingen forslag"
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr "Sjekk stavekontroll og grammatikk"
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr ""
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr "After the Deadline hjelp"
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr ""
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr "Forklar ..."
+
+#: overlay.dtd:1
+msgid "c"
+msgstr "c"
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr "Redundante setninger"
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr "Ignorer alltid"
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr "Legg til"
+
+#: prefs.dtd:20
+msgid "English"
+msgstr "Engelsk"
+
+#: prefs.dtd:21
+msgid "French"
+msgstr "Fransk"
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr "Passivum"
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr "Ingen skrivefeil ble funnet."
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr "Det oppsto et problem under kommunikasjonen med After the Deadline tjeneren. Prøv igjen om ett minutt."
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr "Egenskaper for After the Deadline "
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr "Portugisisk"
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr "Spansk"
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr "Automatisk gjenkjenn språk ved korrekturlesing"
+
+#: atd.properties:18
+msgid "edit text"
+msgstr "rediger tekst"
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr "Korrekturles"
+
+#: atd.properties:17
+msgid "proofread"
+msgstr "korrekturles"
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr "Bruk AtD på dette nettstedet"
+
+#: prefs.dtd:22
+msgid "German"
+msgstr "Tysk"
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr "Ikke bruk After the Deadline for følgende domener:"
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr "Ignorerte setninger"
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr "Les dokumentasjonen"
+
+#: prefs.dtd:1
+msgid "by"
+msgstr "av"
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr "Stavekontroll"
+
+#: overlay.dtd:5
+msgid "a"
+msgstr "a"
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr "After the Deadline har oppdaget stave- og grammatikk feil som ikke er gjennomgått. Ønsker du å sende skjemaet likevel?"
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr "After the Deadline: Send advarsel"
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr "After the Deadline kunne ikke koble til serveren. Kontroller Internett-tilkoblingen, og prøv igjen."
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr "Erstatt valgt tekst med:"
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr "After the Deadline: Rediger seleksjon"
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr "Rediger seleksjon ..."
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr "Ignorer alle"
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr "Sjargong"
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr ""
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr "Aktivisering:"
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr "Aktiver korrekturlesing med følgende tastetrykk:"
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr "Varsle meg når innlegg ikke er korrekturlest."
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr ""
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr "Aktivere følgende engelsk grammatikk og stil-sjekker:"
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr "Ignorer forslag"
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr ""
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr "Klisjeer"
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr "Komplekse setninger"
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr "Diakritiske tegn"
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr "Doble negativer"
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr "Skjulte verb"
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr "Korrekturleseren har forslag til dette innlegget. Er du sikker på at du vil publisere det? Trykk OK for å publisere innlegget, eller Avbryt for å vise forslag og redigere innlegget."
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr "After the Deadline: Det oppsto en feil med nettverkforbindelsen"
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr "Korrekturleseren har forslag til dette innlegget. Er du sikker på at du vil oppdatere? Trykk OK for å oppdatere innlegget, eller Avbryt for å vise forslag og redigere innlegget. "

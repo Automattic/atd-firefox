@@ -1,0 +1,8 @@
+<!ENTITY proofread.label "スペルと文章スタイルをチェックする">
+<!ENTITY proofread.key "c">
+<!ENTITY switch.label "このサイトで AtD を使う">
+<!ENTITY switch.key "a">
+<!ENTITY help.label "After the Deadline ヘルプ">
+<!ENTITY help.key "a">
+<!ENTITY atd.label "AtD Preferences">
+<!ENTITY atd.key "a">

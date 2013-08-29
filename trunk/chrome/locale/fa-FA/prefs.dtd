@@ -1,0 +1,32 @@
+<!ENTITY title "تنظیمات اَفتِر دِ دِدلاین">
+<!ENTITY by "توسط">
+<!ENTITY documentation "مستندات را مطالعه کنید">
+<!ENTITY activation.label "فعال‌سازی:">
+<!ENTITY key.label "فعال کردن نمونه‌خوانی با زدن کلید‌های زیر:">
+<!ENTITY warn.label "هنگام ثبت فرم‌های نمونه‌خوانی نشده، به من هشدار بده.">
+<!ENTITY nativeSpell.label "غلط‌یاب فایرفاکس در فرم‌های بهره‌مند از AtD مجاز باشد.">
+<!ENTITY proofreadingRules.label "کارا کردنِ بررسی‌هایِ دستور زبان و سبک‌هایِ نگارشِ انگلیسی زیر">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "کلیشه‌ها">
+<!ENTITY proofreadingRules.complex.label "عبارات پیچیده">
+<!ENTITY proofreadingRules.diacritical.label "اعراب‌گذاری‌ها">
+<!ENTITY proofreadingRules.doubleNeg.label "دوبار منفی کردن‌ها">
+<!ENTITY proofreadingRules.hiddenVerbs.label "افعال پنهان">
+<!ENTITY proofreadingRules.jargon.label "تخصصی">
+<!ENTITY proofreadingRules.passive.label "حالت مجهول">
+<!ENTITY proofreadingRules.avoid.label "عباراتی که باید از آنها پرهیز کرد">
+<!ENTITY proofreadingRules.redundant.label "عبارات حشو">
+
+<!ENTITY proofreadingLanguage.label "زبان نمونه‌خوانی">
+<!ENTITY proofreadingLanguage.english.label "انگلیسی">
+<!ENTITY proofreadingLanguage.french.label "فرانسوی">
+<!ENTITY proofreadingLanguage.german.label "آلمانی">
+<!ENTITY proofreadingLanguage.portuguese.label "پرتغالی">
+<!ENTITY proofreadingLanguage.spanish.label "اسپانیایی">
+<!ENTITY proofreadingLanguage.guess.label "شناسایی خودکار زبان هنگام نمونه‌خوانی">
+
+
+<!ENTITY ignorePhrases.label "عبارات نادیده گرفته شده">
+<!ENTITY ignorePhrases.add.label "افزودن">
+<!ENTITY ignoreDomains.label "از اَفتِر دِ دِدلاین در دامنه‌های زیر استفاده نشود:">
+<!ENTITY ignoreDomains.add.label "افزودن">

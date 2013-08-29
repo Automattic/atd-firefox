@@ -1,0 +1,8 @@
+<!ENTITY proofread.label "Tarkista oikeinkirjoitus ja kielioppi">
+<!ENTITY proofread.key "c">
+<!ENTITY switch.label "Käytä AtD-lisäosaa tällä sivustolla">
+<!ENTITY switch.key "a">
+<!ENTITY help.label "After the Deadline-ohjeet">
+<!ENTITY help.key "a">
+<!ENTITY atd.label "AtD Preferences">
+<!ENTITY atd.key "a">

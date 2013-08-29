@@ -1,0 +1,19 @@
+content afterthedeadline  chrome/content/
+skin afterthedeadline default chrome/skin/
+resource afterthedeadline modules/
+locale afterthedeadline en-US chrome/locale/en-US/
+
+locale afterthedeadline ar-AR chrome/locale/ar-AR/
+locale afterthedeadline de-DE chrome/locale/de-DE/
+locale afterthedeadline es-ES chrome/locale/es-ES/
+locale afterthedeadline fa-FA chrome/locale/fa-FA/
+locale afterthedeadline fi-FI chrome/locale/fi-FI/
+locale afterthedeadline it-IT chrome/locale/it-IT/
+locale afterthedeadline ja-JA chrome/locale/ja-JA/
+locale afterthedeadline ms-MS chrome/locale/ms-MS/
+locale afterthedeadline no-NO chrome/locale/no-NO/
+locale afterthedeadline pt-BR chrome/locale/pt-BR/
+locale afterthedeadline pt-PT chrome/locale/pt-PT/
+locale afterthedeadline tr-TR chrome/locale/tr-TR/
+
+overlay chrome://browser/content/browser.xul  chrome://afterthedeadline/content/overlay.xul

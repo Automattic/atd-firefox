@@ -1,0 +1,32 @@
+<!ENTITY title "خيارات After The Deadline">
+<!ENTITY by "بواسطة">
+<!ENTITY documentation "إقرأ ملفات الدعم">
+<!ENTITY activation.label "التفعيل:">
+<!ENTITY key.label "قم بالتدقيق الإملائي عندما أضغط على الأزرار التالية:">
+<!ENTITY warn.label "نبهني عندما أرسل نصاً غير مدقق.">
+<!ENTITY nativeSpell.label "تمكين المدقق الإملائي للفايرفوكس بالإضافة إلى المدقق الإملائي للـAtD.">
+<!ENTITY proofreadingRules.label "تفعيل التدقيق الإملائي للقواعد النحوية و قواعد الكتابة التالية:">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "الابتذال">
+<!ENTITY proofreadingRules.complex.label "الجمل المعقدة">
+<!ENTITY proofreadingRules.diacritical.label "علامات التشكيل">
+<!ENTITY proofreadingRules.doubleNeg.label "النفي المضاعف">
+<!ENTITY proofreadingRules.hiddenVerbs.label "الأفعال المخفية">
+<!ENTITY proofreadingRules.jargon.label "الاضطراب اللغوي">
+<!ENTITY proofreadingRules.passive.label "صيغة المجهول">
+<!ENTITY proofreadingRules.avoid.label "جمل يتم تجاهلها">
+<!ENTITY proofreadingRules.redundant.label "الجمل المكررة">
+
+<!ENTITY proofreadingLanguage.label "لغة التدقيق">
+<!ENTITY proofreadingLanguage.english.label "الإنجليزية">
+<!ENTITY proofreadingLanguage.french.label "الفرنسية">
+<!ENTITY proofreadingLanguage.german.label "الألمانية">
+<!ENTITY proofreadingLanguage.portuguese.label "البرتغالية">
+<!ENTITY proofreadingLanguage.spanish.label "الاسبانية">
+<!ENTITY proofreadingLanguage.guess.label "اكتشف اللغة تلقائياً أثناء التدقيق الإملائي">
+
+
+<!ENTITY ignorePhrases.label "العبارات التي يتم تجاهلها">
+<!ENTITY ignorePhrases.add.label "إضافة">
+<!ENTITY ignoreDomains.label "لا تستخدم After the Deadline على هذه النطاقات:">
+<!ENTITY ignoreDomains.add.label "إضافة">

@@ -1,0 +1,231 @@
+# Translation of Firefox Add-on in Japanese
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:25:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr "反復語"
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr "候補はありません"
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr "スペルと文章スタイルをチェックする"
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr "校正言語"
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr "After the Deadline ヘルプ"
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr "無視するフレーズ"
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr "説明する"
+
+#: overlay.dtd:1
+msgid "c"
+msgstr "c"
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr "冗長な言い回し"
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr "常に無視"
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr "追加"
+
+#: prefs.dtd:20
+msgid "English"
+msgstr "英語"
+
+#: prefs.dtd:21
+msgid "French"
+msgstr "フランス語"
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr "受動態"
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr "文章の間違いは見つかりませんでした。"
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr "After the Deadline サービスとの通信に問題が発生しました。1分ほど待って再度お試しください。"
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr "After the Deadline 設定"
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr "スペイン語"
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr "校正の際、言語を自動検出する"
+
+#: atd.properties:18
+msgid "edit text"
+msgstr "テキスト編集"
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr "文章の校正"
+
+#: atd.properties:17
+msgid "proofread"
+msgstr "校正"
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr "このサイトで AtD を使う"
+
+#: prefs.dtd:22
+msgid "German"
+msgstr "ドイツ語"
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr "以下のドメインでは After the Deadline を使わない:"
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr "無視する語句"
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr "ドキュメンテーションを読む"
+
+#: prefs.dtd:1
+msgid "by"
+msgstr "by"
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr "スペルチェック"
+
+#: overlay.dtd:5
+msgid "a"
+msgstr "a"
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr "After the Deadline は、見直しされていないスペルミスや文章スタイルエラーがあることを発見しました。フォームを本当に投稿しますか ?"
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr "After the Deadline: 投稿時の警告"
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr "After the Deadline はサーバーに接続できませんでした。インターネットの接続を確認し、再度お試し下さい。"
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr "選択部分を入れ替える"
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr "After the Deadline: 選択部分の編集"
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr "選択部分を編集する…"
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr "全て無視"
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr "特殊用語"
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr "バイアス言語"
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr "有効化:"
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr "以下のキーストロークで校正を開始する。"
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr "投稿の前に校正を行っていない場合に警告する。"
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr "AtD が追加されたフォーム上で Firefox のスペルチェッカーを許可する。"
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr "以下の英語のスペルと文章スタイルをチェックする。"
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr "候補を無視"
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr "校正チェックサービスとの通信に問題が発生しました。"
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr "決まり文句/死語"
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr "難解な言い回し"
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr "発音区別符"
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr "二重否定"
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr "隠れ動詞"
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr "校正ツールによるアドバイスがあります。本当に公開しますか ? この投稿を公開するには OK を、アドバイスを読んで投稿を編集するにはキャンセルをクリックして下さい。"
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr "After the Deadline: 接続エラー"
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr "校正ツールによるアドバイスがあります。本当に更新しますか ? この投稿を更新するには OK を、アドバイスを読んで投稿を編集するにはキャンセルをクリックして下さい。"

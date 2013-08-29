@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>afterthedeadline@afterthedeadline.com</em:id>
+    <em:name>After the Deadline</em:name>
+    <em:description>After the Deadline checks spelling, grammar, and style in your web forms.</em:description>
+    <em:developer>Automattic, mitcho (Michael 芳貴 Erlewine)</em:developer>
+    <em:homepageURL>http://firefox.afterthedeadline.com</em:homepageURL>
+    <em:version>1.51</em:version>
+    <em:optionsURL>chrome://afterthedeadline/content/prefs.xul</em:optionsURL>
+    <em:iconURL>chrome://afterthedeadline/skin/squarelogo.png</em:iconURL>
+    <em:type>2</em:type>
+    <em:targetApplication>
+     <Description>
+      <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> 
+      <em:minVersion>3.6</em:minVersion>
+      <em:maxVersion>11.*</em:maxVersion>
+     </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>

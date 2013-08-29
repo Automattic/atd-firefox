@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>AtD test</title>
+    <link rel='stylesheet' href='corefunctions.css' type='text/css'/>
+  </head>
+  <body>
+    <p>First, load in your core functions on this page. Then, for each function, follow the directions (via the console, for example) and make sure that the box on the left ends up looking like the one on the right.</p>
+
+    <h2><code>AtD.core.create</code></h2>
+    <p>Create a node (<code>AtD.core.create('test')</code>) and append it to <code>div#test1</code>.</p>
+    <div id='test1' class='test'></div>
+    <div class='answer'><span class='mceItemHidden'>test</span></div>
+
+    <br/>
+    <h2><code>AtD.core.removeParent</code></h2>
+    <p>Run <code>removeParent</code> on <code>span#test2</code>.</p>
+    <div class='test'>out <span id='test2' class='mceItemHidden'>in <span class='one'>1</span>, <span class='two'>2</span>, and <span class='three'>3</span></span><span class='one'>1</span></div>
+    <div class='answer'>out in <span class='one'>1</span>, <span class='two'>2</span>, and <span class='three'>3</span><span class='one'>1</span></div>
+    
+    
+  </body>
+</html>

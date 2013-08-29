@@ -1,0 +1,231 @@
+# Translation of Firefox Add-on in Turkish
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:27:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr "Tekrarlanan Kelime"
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr "Öneri yok"
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr "Yazım Denetimi ve Dilbilgisi"
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr "Metin Düzeltme Dili"
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr "After the Deadline Yardım"
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr "Kaçınılacak İfadeler"
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr "Açıkla ..."
+
+#: overlay.dtd:1
+msgid "c"
+msgstr "c"
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr "Yedek İfadeler"
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr "Her zaman yoksay"
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr "Ekle"
+
+#: prefs.dtd:20
+msgid "English"
+msgstr "İngilizce"
+
+#: prefs.dtd:21
+msgid "French"
+msgstr "Fransızca"
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr "Edilgen çatı"
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr "Hiç bir yazım hatası bulunmadı."
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr "After the Deadline servisi ile iletişim kurarken bir sorun ile karşılaşıldı.Bir dakika içinde tekrar deneyin."
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr "After the Deadline Tercihleri"
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr "Portekizce"
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr "Yazım denetimi yaparken dili otomatik algıla"
+
+#: atd.properties:18
+msgid "edit text"
+msgstr "metni düzenle"
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr "Tashih Yazma"
+
+#: atd.properties:17
+msgid "proofread"
+msgstr "tashih "
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr "AtD'yi bu sitede kullan"
+
+#: prefs.dtd:22
+msgid "German"
+msgstr "Almanca"
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr "After the Deadline'nı aşağıdaki alan adlarında kullanma"
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr "Yok Sayılan İfadeler"
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr "Belgeleri okuyun"
+
+#: prefs.dtd:1
+msgid "by"
+msgstr "den"
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr "Yazım"
+
+#: overlay.dtd:5
+msgid "a"
+msgstr "a"
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr "After the Deadline inceleemdiğiniz yazım ve dilbilgisi hataları tespit etti.Buna rağmen formu göndermek ister misiniz?"
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr "After the Deadline: Gönderme uyarısı"
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr "After the Deadline sunucuya bağlanamadı.Lütfen internet bağlantınızı kontrol edip tekrar deneyin."
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr "Seçimi bununla değiştirin:"
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr "After the Deadline: Seçimi düzenle"
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr "Seçimi Düzenle ..."
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr "Tümünü yoksay"
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr "Jargon"
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr "Bias Dili"
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr "Etkinleştirme:"
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr "Tashihi aşağıdaki tuş ile etkinleştir:"
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr "Form tabanlı gönderimler yazım denetiminden geçirilmediğinde beni uyar."
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr ""
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr "Devam eden İngilizce dilbilgisi ve stil kontrollerini etkinleştir:"
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr "Öneriyi yoksay"
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr "Tashih servisi ile iletişim kurarken bir hata oluştu."
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr "Klişeler"
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr "Karmaşık İfadeler"
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr "Ses değiştirten İşaretler"
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr "Çift Negatifler"
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr "Gizli Fiiller"
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr "Tashih'in bu yazı için önerileri var.Yayınlamak istediğinizden emin mi siniz?Yazınızı yayınlamak için Tamam ve ya önerileri görüp yazınızı düzenlemek için İptal'e basın."
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr "After the Deadline: Bağlantı hatası"
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr "Tashih'in bu yazı için önerileri var.Güncellemek istediğinizden emin mi siniz?Yazınızı güncellemek için Tamam ve ya önerileri görüp yazınızı düzenlemek için İptal'e basın. "

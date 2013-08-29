@@ -1,0 +1,32 @@
+<!ENTITY title "Pemilihan After the Deadline">
+<!ENTITY by "oleh">
+<!ENTITY documentation "Baca dokumentasi">
+<!ENTITY activation.label "Pengaktifan:">
+<!ENTITY key.label "Activate proofreading with the following keystroke:">
+<!ENTITY warn.label "Warn me when form submissions are not proofread first.">
+<!ENTITY nativeSpell.label "Allow Firefox spell-checker on AtD enhanced forms.">
+<!ENTITY proofreadingRules.label "Enable the following English grammar and style checks:">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "Klisé">
+<!ENTITY proofreadingRules.complex.label "Frasa-frasa Rumit">
+<!ENTITY proofreadingRules.diacritical.label "Tanda Diakritis">
+<!ENTITY proofreadingRules.doubleNeg.label "Negatif Berganda">
+<!ENTITY proofreadingRules.hiddenVerbs.label "Kata Kerja Tersembunyi">
+<!ENTITY proofreadingRules.jargon.label "Jargon">
+<!ENTITY proofreadingRules.passive.label "Suara Pasif">
+<!ENTITY proofreadingRules.avoid.label "Frasa-frasa yang perlu dielakkan">
+<!ENTITY proofreadingRules.redundant.label "Frasa Lewah">
+
+<!ENTITY proofreadingLanguage.label "Bahasa Penyemakan pruf">
+<!ENTITY proofreadingLanguage.english.label "Inggeris">
+<!ENTITY proofreadingLanguage.french.label "Perancis">
+<!ENTITY proofreadingLanguage.german.label "Jerman">
+<!ENTITY proofreadingLanguage.portuguese.label "Portugis">
+<!ENTITY proofreadingLanguage.spanish.label "Sepanyol">
+<!ENTITY proofreadingLanguage.guess.label "Carian-automatik bahasa ketika penyemakan pruf">
+
+
+<!ENTITY ignorePhrases.label "Frasa-frasa yang diabaikan">
+<!ENTITY ignorePhrases.add.label "Tambah">
+<!ENTITY ignoreDomains.label "Jangan guna After the Deadline pada domain berikut:">
+<!ENTITY ignoreDomains.add.label "Tambah">

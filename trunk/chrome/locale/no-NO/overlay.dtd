@@ -1,0 +1,8 @@
+<!ENTITY proofread.label "Sjekk stavekontroll og grammatikk">
+<!ENTITY proofread.key "c">
+<!ENTITY switch.label "Bruk AtD på dette nettstedet">
+<!ENTITY switch.key "a">
+<!ENTITY help.label "After the Deadline hjelp">
+<!ENTITY help.key "a">
+<!ENTITY atd.label "AtD Preferences">
+<!ENTITY atd.key "a">

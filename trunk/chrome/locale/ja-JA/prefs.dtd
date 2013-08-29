@@ -1,0 +1,32 @@
+<!ENTITY title "After the Deadline 設定">
+<!ENTITY by "by">
+<!ENTITY documentation "ドキュメンテーションを読む">
+<!ENTITY activation.label "有効化:">
+<!ENTITY key.label "以下のキーストロークで校正を開始する。">
+<!ENTITY warn.label "投稿の前に校正を行っていない場合に警告する。">
+<!ENTITY nativeSpell.label "AtD が追加されたフォーム上で Firefox のスペルチェッカーを許可する。">
+<!ENTITY proofreadingRules.label "以下の英語のスペルと文章スタイルをチェックする。">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "決まり文句/死語">
+<!ENTITY proofreadingRules.complex.label "難解な言い回し">
+<!ENTITY proofreadingRules.diacritical.label "発音区別符">
+<!ENTITY proofreadingRules.doubleNeg.label "二重否定">
+<!ENTITY proofreadingRules.hiddenVerbs.label "隠れ動詞">
+<!ENTITY proofreadingRules.jargon.label "特殊用語">
+<!ENTITY proofreadingRules.passive.label "受動態">
+<!ENTITY proofreadingRules.avoid.label "無視するフレーズ">
+<!ENTITY proofreadingRules.redundant.label "冗長な言い回し">
+
+<!ENTITY proofreadingLanguage.label "校正言語">
+<!ENTITY proofreadingLanguage.english.label "英語">
+<!ENTITY proofreadingLanguage.french.label "フランス語">
+<!ENTITY proofreadingLanguage.german.label "ドイツ語">
+<!ENTITY proofreadingLanguage.portuguese.label "ポルトガル語">
+<!ENTITY proofreadingLanguage.spanish.label "スペイン語">
+<!ENTITY proofreadingLanguage.guess.label "校正の際、言語を自動検出する">
+
+
+<!ENTITY ignorePhrases.label "無視する語句">
+<!ENTITY ignorePhrases.add.label "追加">
+<!ENTITY ignoreDomains.label "以下のドメインでは After the Deadline を使わない:">
+<!ENTITY ignoreDomains.add.label "追加">

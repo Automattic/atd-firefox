@@ -1,0 +1,8 @@
+<!ENTITY proofread.label "Verificar Ortografia e Gramática">
+<!ENTITY proofread.key "c">
+<!ENTITY switch.label "Usar AtD neste Site">
+<!ENTITY switch.key "a">
+<!ENTITY help.label "Ajuda After the Deadline">
+<!ENTITY help.key "a">
+<!ENTITY atd.label "AtD Preferences">
+<!ENTITY atd.key "a">

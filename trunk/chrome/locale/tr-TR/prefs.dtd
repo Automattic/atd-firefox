@@ -1,0 +1,32 @@
+<!ENTITY title "After the Deadline Tercihleri">
+<!ENTITY by "den">
+<!ENTITY documentation "Belgeleri okuyun">
+<!ENTITY activation.label "Etkinleştirme:">
+<!ENTITY key.label "Tashihi aşağıdaki tuş ile etkinleştir:">
+<!ENTITY warn.label "Form tabanlı gönderimler yazım denetiminden geçirilmediğinde beni uyar.">
+<!ENTITY nativeSpell.label "Allow Firefox spell-checker on AtD enhanced forms.">
+<!ENTITY proofreadingRules.label "Devam eden İngilizce dilbilgisi ve stil kontrollerini etkinleştir:">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "Klişeler">
+<!ENTITY proofreadingRules.complex.label "Karmaşık İfadeler">
+<!ENTITY proofreadingRules.diacritical.label "Ses değiştirten İşaretler">
+<!ENTITY proofreadingRules.doubleNeg.label "Çift Negatifler">
+<!ENTITY proofreadingRules.hiddenVerbs.label "Gizli Fiiller">
+<!ENTITY proofreadingRules.jargon.label "Jargon">
+<!ENTITY proofreadingRules.passive.label "Edilgen çatı">
+<!ENTITY proofreadingRules.avoid.label "Kaçınılacak İfadeler">
+<!ENTITY proofreadingRules.redundant.label "Yedek İfadeler">
+
+<!ENTITY proofreadingLanguage.label "Metin Düzeltme Dili">
+<!ENTITY proofreadingLanguage.english.label "İngilizce">
+<!ENTITY proofreadingLanguage.french.label "Fransızca">
+<!ENTITY proofreadingLanguage.german.label "Almanca">
+<!ENTITY proofreadingLanguage.portuguese.label "Portekizce">
+<!ENTITY proofreadingLanguage.spanish.label "İspanyolca">
+<!ENTITY proofreadingLanguage.guess.label "Yazım denetimi yaparken dili otomatik algıla">
+
+
+<!ENTITY ignorePhrases.label "Yok Sayılan İfadeler">
+<!ENTITY ignorePhrases.add.label "Ekle">
+<!ENTITY ignoreDomains.label "After the Deadline'nı aşağıdaki alan adlarında kullanma">
+<!ENTITY ignoreDomains.add.label "Ekle">

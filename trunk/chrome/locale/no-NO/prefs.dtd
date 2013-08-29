@@ -1,0 +1,32 @@
+<!ENTITY title "Egenskaper for After the Deadline ">
+<!ENTITY by "av">
+<!ENTITY documentation "Les dokumentasjonen">
+<!ENTITY activation.label "Aktivisering:">
+<!ENTITY key.label "Aktiver korrekturlesing med følgende tastetrykk:">
+<!ENTITY warn.label "Varsle meg når innlegg ikke er korrekturlest.">
+<!ENTITY nativeSpell.label "Allow Firefox spell-checker on AtD enhanced forms.">
+<!ENTITY proofreadingRules.label "Aktivere følgende engelsk grammatikk og stil-sjekker:">
+<!ENTITY proofreadingRules.bias.label "Biased Language">
+<!ENTITY proofreadingRules.cliches.label "Klisjeer">
+<!ENTITY proofreadingRules.complex.label "Komplekse setninger">
+<!ENTITY proofreadingRules.diacritical.label "Diakritiske tegn">
+<!ENTITY proofreadingRules.doubleNeg.label "Doble negativer">
+<!ENTITY proofreadingRules.hiddenVerbs.label "Skjulte verb">
+<!ENTITY proofreadingRules.jargon.label "Sjargong">
+<!ENTITY proofreadingRules.passive.label "Passivum">
+<!ENTITY proofreadingRules.avoid.label "Phrases to Avoid">
+<!ENTITY proofreadingRules.redundant.label "Redundante setninger">
+
+<!ENTITY proofreadingLanguage.label "Proofreading Language">
+<!ENTITY proofreadingLanguage.english.label "Engelsk">
+<!ENTITY proofreadingLanguage.french.label "Fransk">
+<!ENTITY proofreadingLanguage.german.label "Tysk">
+<!ENTITY proofreadingLanguage.portuguese.label "Portugisisk">
+<!ENTITY proofreadingLanguage.spanish.label "Spansk">
+<!ENTITY proofreadingLanguage.guess.label "Automatisk gjenkjenn språk ved korrekturlesing">
+
+
+<!ENTITY ignorePhrases.label "Ignorerte setninger">
+<!ENTITY ignorePhrases.add.label "Legg til">
+<!ENTITY ignoreDomains.label "Ikke bruk After the Deadline for følgende domener:">
+<!ENTITY ignoreDomains.add.label "Legg til">

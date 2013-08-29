@@ -1,0 +1,78 @@
+#afterthedeadline-logo {
+  display: inline-block;
+  background-image: url('chrome://afterthedeadline/skin/logo.png');
+  width: 250px;
+  height: 46px;
+  cursor: pointer;
+}
+
+#by {
+  color:#222;
+  font-size: 0.8em;
+  font-style:italic;
+  margin-right: 2px;
+}
+
+#automattic-logo {
+  display: inline-block;
+  background-image: url('chrome://afterthedeadline/skin/automattic-small.png');
+  width: 100px;
+  height: 8px;
+  cursor: pointer;
+}
+
+#documentation {
+  font-size:0.8em;
+  text-decoration:underline;
+  cursor: pointer;
+}
+
+#key {
+  -moz-border-radius: 10px;
+  /*border-radius: 10px;*/
+  border: 1px solid #ccc;
+  height: 14px;
+  text-align: center;
+  padding: 5px;
+  margin-left: 1px;
+  margin-top: 1px;
+  margin-bottom: 4px;
+}
+#key:focus {
+  -moz-border-radius: 11px;
+  /*border-radius: 11px;*/
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 3px;
+  border: 2px solid #333;
+}
+
+#ignoreStrings, #ignoreDomains {
+  background-color: #fff;
+  padding: 10px;
+  margin: 5px;
+  border: 1px #999 solid;
+  clear: both;
+  height: 36px;
+  overflow: auto;
+}
+
+.ignoreWidget {
+  -moz-binding: url('chrome://afterthedeadline/skin/prefsBinding.xml#ignoreWidget');
+  margin-right: 7px;
+  display: inline-block;
+}
+
+.ignoreWidget .xit {
+  margin-right: 3px;
+  display: inline-block;
+  color: transparent;
+  width: 10px;
+  height: 15px;
+  background: transparent url('chrome://afterthedeadline/skin/xit.gif') no-repeat 0 3px;
+}
+
+.ignoreWidget .xit:hover {
+  background: transparent url('chrome://afterthedeadline/skin/xit.gif') no-repeat -10px 3px;
+  cursor: pointer;
+}

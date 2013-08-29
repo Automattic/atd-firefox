@@ -1,0 +1,60 @@
+div.afterthedeadline-button {
+  position: absolute;
+  background: url('chrome://afterthedeadline/skin/atdbuttontr-gray.png') transparent no-repeat top left !important;
+  width: 20px !important;
+  height: 20px !important;
+  top: 0px;
+  left: 0px;
+}
+
+div.afterthedeadline-button.afterthedeadline-focus, div.afterthedeadline-button.afterthedeadline-hover, div.afterthedeadline-button:hover {
+  background-image: url('chrome://afterthedeadline/skin/atdbuttontr.png') !important;
+}
+
+div.afterthedeadline-button.afterthedeadline-done {
+  background-image: url('chrome://afterthedeadline/skin/atdbuttontr-editing.png') !important;
+}
+
+/* AtD error styles */
+
+span.mceItemHidden 
+{
+  float: none !important;
+}
+
+span.hiddenSpellError
+{
+   border-bottom: 2px solid red !important;
+   cursor: default;
+   float: none !important;
+}
+
+span.hiddenGrammarError
+{
+   border-bottom: 2px solid green !important;
+   cursor: default;
+   float: none !important;
+}
+
+span.hiddenSuggestion
+{
+   border-bottom: 2px solid blue !important;
+   cursor: default;
+   float: none !important;
+}
+
+/* make it so AtD can work with TinyMCE */
+div #AtD_Content * 
+{
+   white-space: normal !important;
+   overflow: visible !important;
+}
+
+/* make it so some font elements are inherited */
+div #AtD_Content div, div #AtD_Content p, div #AtD_Content span
+{
+   font-size: inherit !important;
+   font-family: inherit !important;
+   font-weight: inherit !important;
+   line-height: inherit !important;
+}

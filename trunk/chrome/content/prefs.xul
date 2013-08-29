@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://afterthedeadline/skin/prefs.css" type="text/css"?>
+
+<!DOCTYPE window SYSTEM "chrome://afterthedeadline/locale/prefs.dtd">
+
+<prefwindow id="afterthedeadlinePrefs" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+     xmlns:html="http://www.w3.org/1999/xhtml" 
+     title="&title;"
+     onload="com.automattic.AtDPrefs.init()">
+	<script type="application/javascript" src="chrome://afterthedeadline/content/helpHelper.js" />
+
+	<prefpane>
+		<preferences>
+			<preference id="extensions.afterthedeadline.warn" name="extensions.afterthedeadline.warn" type="bool" />
+			<preference id="extensions.afterthedeadline.ignoreStrings" name="extensions.afterthedeadline.ignoreStrings" type="unichar" />
+			<preference id="extensions.afterthedeadline.ignoreTypes" name="extensions.afterthedeadline.ignoreTypes" type="string" />
+			<preference id="extensions.afterthedeadline.detectLanguage" name="extensions.afterthedeadline.detectLanguage" type="bool" />
+			<preference id="extensions.afterthedeadline.nativeSpell" name="extensions.afterthedeadline.nativeSpell" type="bool" />
+			<preference id="extensions.afterthedeadline.proofreadLanguage" name="extensions.afterthedeadline.proofreadLanguage" type="unichar" />
+		</preferences>
+		<description style="margin-bottom: 10px;">
+			<html:a id="afterthedeadline-logo" onclick='com.automattic.AtDHelp.showAtDWebsite()'></html:a> <html:span id="by">&by;</html:span> <html:a onclick='com.automattic.AtDHelp.showAutomattic()' id="automattic-logo"></html:a>
+		</description>
+		<description><html:a onclick='com.automattic.AtDHelp.showAtDHelp()' id='documentation'>&documentation;</html:a></description>
+
+		<tabbox>
+			<tabs>
+				<tab label="Activation" />
+				<tab label="Proofreading" />
+				<tab label="Ignored Sites" />
+			</tabs>
+			<tabpanels>
+				<tabpanel>
+					<vbox id="activation">
+						<description>&key.label;</description>
+						<html:div style='text-align: center;'>
+							<html:input id='key' size='15' spellcheck='false' readonly='true' />
+						</html:div>
+						<checkbox label="&warn.label;" preference="extensions.afterthedeadline.warn" />
+						<checkbox label="&nativeSpell.label;" preference="extensions.afterthedeadline.nativeSpell" />
+					</vbox>
+				</tabpanel>
+
+				<tabpanel style="-moz-box-pack: center">
+					<vbox>
+					<groupbox id="ignoreTypes">
+					<caption label="&proofreadingRules.label;" />
+						<hbox>
+							<vbox>
+								<checkbox value="Bias Language" label="&proofreadingRules.bias.label;" />
+								<checkbox value="Cliches" label="&proofreadingRules.cliches.label;" />
+								<checkbox value="Complex Expression" label="&proofreadingRules.complex.label;" />
+								<checkbox value="Diacritical Marks" label="&proofreadingRules.diacritical.label;" />
+								<checkbox value="Double Negatives" label="&proofreadingRules.doubleNeg.label;" />
+							</vbox>
+							<vbox>
+								<checkbox value="Hidden Verbs" label="&proofreadingRules.hiddenVerbs.label;" />
+								<checkbox value="Jargon Language" label="&proofreadingRules.jargon.label;" />
+								<checkbox value="Passive voice" label="&proofreadingRules.passive.label;" />
+								<checkbox value="Phrases to Avoid" label="&proofreadingRules.avoid.label;" />
+								<checkbox value="Redundant Expression" label="&proofreadingRules.redundant.label;" />
+							</vbox>
+						</hbox>
+					</groupbox>
+    
+					<groupbox id="language">
+						<caption label="&proofreadingLanguage.label;" />
+							<vbox>
+								<menulist preference="extensions.afterthedeadline.proofreadLanguage">
+									<menupopup>
+										<menuitem preference="extensions.afterthedeadline.proofreadLanguage" label="&proofreadingLanguage.english.label;" value="en.service.afterthedeadline.com" />
+										<menuitem preference="extensions.afterthedeadline.proofreadLanguage" label="&proofreadingLanguage.french.label;" value="fr.service.afterthedeadline.com" />
+										<menuitem preference="extensions.afterthedeadline.proofreadLanguage" label="&proofreadingLanguage.german.label;" value="de.service.afterthedeadline.com" />
+										<menuitem preference="extensions.afterthedeadline.proofreadLanguage" label="&proofreadingLanguage.portuguese.label;" value="pt.service.afterthedeadline.com" />
+										<menuitem preference="extensions.afterthedeadline.proofreadLanguage" label="&proofreadingLanguage.spanish.label;" value="es.service.afterthedeadline.com" />
+									</menupopup>
+								</menulist>
+								<checkbox label="&proofreadingLanguage.guess.label;" preference="extensions.afterthedeadline.detectLanguage" />
+							</vbox>
+					</groupbox>
+
+					<groupbox style="height: 135px;">
+						<caption label="&ignorePhrases.label;" />
+						<hbox>
+							<textbox id="newIgnoreString"/><button id="newIgnoreStringButton" label="&ignorePhrases.add.label;"/>
+						</hbox>
+						<html:div id="ignoreStrings" style="width: 300px; overflow: auto"></html:div>
+					</groupbox>
+					</vbox>
+				</tabpanel>
+				<tabpanel>
+					<vbox>
+						<caption label="&ignoreDomains.label;" />
+						<hbox>
+							<textbox id="newIgnoreDomain" />
+							<button id="newIgnoreDomainButton" label="&ignoreDomains.add.label;"/>
+						</hbox>
+						<html:div id="ignoreDomains" style="width: 300px; height: 300px; overflow: auto"></html:div>
+					</vbox>
+				</tabpanel>
+			</tabpanels>
+		</tabbox>
+		<script src="prefs.js" type="application/javascript"/>
+	</prefpane>
+</prefwindow>

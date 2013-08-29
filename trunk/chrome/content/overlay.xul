@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE window SYSTEM "chrome://afterthedeadline/locale/overlay.dtd">
+
+<!--<?xml-stylesheet href="chrome://afterthedeadline/skin/atd.css" type="text/css"?>-->
+
+<overlay id="afterthedeadline" 
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+         xmlns:html="http://www.w3.org/1999/xhtml" >
+  <script type="application/javascript" src="chrome://afterthedeadline/content/atd.js" />
+  <script type="application/javascript" src="chrome://afterthedeadline/content/helpHelper.js" />
+  
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="afterthedeadline-strings" src="chrome://afterthedeadline/locale/atd.properties"/>
+  </stringbundleset>
+
+  <popup id="contentAreaContextMenu">
+    <menuitem id="afterthedeadline-branding" position="1" disabled="true" hidden="true" class="menuitem-iconic">
+      <html:img src="chrome://afterthedeadline/skin/menulogo.png"/>
+    </menuitem>
+    <menuitem id="afterthedeadline-proofread" class="menuitem-iconic" image="chrome://afterthedeadline/skin/atdbuttontr-nomargin.png" label="&proofread.label;" key="&proofread.key;" insertafter="spell-separator" />
+    <menuitem id="afterthedeadline-switch" class="menuitem-iconic" type="checkbox" checked="true" label="&switch.label;" key="&switch.key;" insertafter="spell-dictionaries" />
+  </popup>
+  <menupopup id="menu_HelpPopup">
+    <menuitem id="afterthedeadline-help" label="&help.label;" accesskey="&help.key;" insertbefore="updateSeparator" oncommand="com.automattic.AtDHelp.showAtDHelp()" />
+  </menupopup>
+  <menupopup id="menu_ToolsPopup">
+     <menuitem accesskey="&atd.key;" label="&atd.label;" oncommand="com.automattic.AtDHelp.showAtDPreferences()" insertafter="javascriptConsole" />
+  </menupopup>
+</overlay>

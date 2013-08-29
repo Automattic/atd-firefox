@@ -1,0 +1,237 @@
+# Translation of Firefox Add-on in Arabic
+# This file is distributed under the same license as the Firefox Add-on package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2010-07-28 03:23:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Firefox Add-on\n"
+
+#: atd.properties:2
+msgid "Repeated Word"
+msgstr "كلمة مكررة"
+
+#: atd.properties:3
+msgid "No suggestions"
+msgstr "لا إقتراحات"
+
+#: overlay.dtd:0
+msgid "Check Spelling and Grammar"
+msgstr "دقق التهجئة و القواعد"
+
+#: prefs.dtd:19
+msgid "Proofreading Language"
+msgstr "لغة التدقيق"
+
+#: overlay.dtd:4
+msgid "After the Deadline Help"
+msgstr "مساعدة After the Deadline"
+
+#: prefs.dtd:16
+msgid "Phrases to Avoid"
+msgstr "جمل يتم تجاهلها"
+
+#: atd.properties:4
+msgid "Explain..."
+msgstr "فسر..."
+
+#: overlay.dtd:1
+msgid "c"
+msgstr "c"
+
+#: prefs.dtd:17
+msgid "Redundant Phrases"
+msgstr "الجمل المكررة"
+
+#: atd.properties:6
+msgid "Ignore always"
+msgstr "تجاهل دائماً"
+
+#: prefs.dtd:31
+msgid "Add"
+msgstr "إضافة"
+
+#: prefs.dtd:20
+msgid "English"
+msgstr "الإنجليزية"
+
+#: prefs.dtd:21
+msgid "French"
+msgstr "الفرنسية"
+
+#: prefs.dtd:15
+msgid "Passive Voice"
+msgstr "صيغة المجهول"
+
+#: atd.properties:20
+msgid "No writing errors were found."
+msgstr "لم نعثر على أخطاء كتابية."
+
+#: atd.properties:21
+msgid "There was a problem communicating with the After the Deadline service. Try again in one minute."
+msgstr "حدث خطأ أثناء الاتصال بخدمة After The Deadline. حاول مجدداً بعد دقيقة واحدة."
+
+#: prefs.dtd:0
+msgid "After the Deadline Preferences"
+msgstr "خيارات After The Deadline"
+
+#: prefs.dtd:23
+msgid "Portuguese"
+msgstr "البرتغالية"
+
+#: prefs.dtd:24
+msgid "Spanish"
+msgstr "الاسبانية"
+
+#: prefs.dtd:25
+msgid "Auto-detect language when proofreading"
+msgstr "اكتشف اللغة تلقائياً أثناء التدقيق الإملائي"
+
+#: atd.properties:18
+msgid "edit text"
+msgstr "تعديل النص"
+
+#: atd.properties:19
+msgid "Proofread Writing"
+msgstr "دقق الكتابة"
+
+#: atd.properties:17
+msgid "proofread"
+msgstr "تدقيق إملائي"
+
+#: overlay.dtd:2
+msgid "Use AtD on this Site"
+msgstr "استخدم AtD على هذا الموقع"
+
+#: prefs.dtd:22
+msgid "German"
+msgstr "الألمانية"
+
+#: prefs.dtd:30
+msgid "Don't use After the Deadline on the following domains:"
+msgstr "لا تستخدم After the Deadline على هذه النطاقات:"
+
+#: prefs.dtd:28
+msgid "Ignored Phrases"
+msgstr "العبارات التي يتم تجاهلها"
+
+#: prefs.dtd:2
+msgid "Read the documentation"
+msgstr "إقرأ ملفات الدعم"
+
+#: prefs.dtd:1
+msgid "by"
+msgstr "بواسطة"
+
+#: atd.properties:1
+msgid "Spelling"
+msgstr "التهجئة"
+
+#: overlay.dtd:5
+msgid "a"
+msgstr "a"
+
+#: atd.properties:15
+msgid "After the Deadline has detected spelling and grammar errors which you have not reviewed. Would you like to submit the form anyway?"
+msgstr "اكتشف After the Deadline  أخطاءً إملائية و نحوية لم تراجعها بعد. هل تريد الاستمرار على أية حال؟"
+
+#: atd.properties:14
+msgid "After the Deadline: Submit warning"
+msgstr "After the Deadline: تنبيه"
+
+#: atd.properties:13
+msgid "After the Deadline could not connect to the server. Please check your internet connection and try again."
+msgstr "لم يتمكن After the Deadline من الاتصال بالسيرفر. رجاءً تحقق من اتصالك بالانترنت و حاول مجدداً."
+
+#: atd.properties:23
+msgid "Replace selection with:"
+msgstr "استبدل التحديد بـ:"
+
+#: atd.properties:10
+msgid "After the Deadline: Edit selection"
+msgstr "After the Deadline: تحرير التحديد"
+
+#: atd.properties:8
+msgid "Edit Selection..."
+msgstr "تحرير التحديد..."
+
+#: atd.properties:7
+msgid "Ignore all"
+msgstr "تجاهل الكل"
+
+#: prefs.dtd:14
+msgid "Jargon"
+msgstr "الاضطراب اللغوي"
+
+#: prefs.dtd:8
+msgid "Bias Language"
+msgstr "الانحياز اللغوي "
+
+#: prefs.dtd:3
+msgid "Activation:"
+msgstr "التفعيل:"
+
+#: prefs.dtd:4
+msgid "Activate proofreading with the following keystroke:"
+msgstr "قم بالتدقيق الإملائي عندما أضغط على الأزرار التالية:"
+
+#: prefs.dtd:5
+msgid "Warn me when form submissions are not proofread first."
+msgstr "نبهني عندما أرسل نصاً غير مدقق."
+
+#: prefs.dtd:6
+msgid "Allow Firefox spell-checker on AtD enhanced forms."
+msgstr "تمكين المدقق الإملائي للفايرفوكس بالإضافة إلى المدقق الإملائي للـAtD."
+
+#: prefs.dtd:7
+msgid "Enable the following English grammar and style checks:"
+msgstr "تفعيل التدقيق الإملائي للقواعد النحوية و قواعد الكتابة التالية:"
+
+#: atd.properties:5
+msgid "Ignore suggestion"
+msgstr "تجاهل الإقتراح"
+
+#: atd.properties:22
+msgid "There was an error communicating with the proofreading service."
+msgstr "حدث خطأ أثناء محاولة الاتصال بخدمة التدقيق الإملائي."
+
+#: prefs.dtd:9
+msgid "Clichés"
+msgstr "الابتذال"
+
+#: prefs.dtd:10
+msgid "Complex Phrases"
+msgstr "الجمل المعقدة"
+
+#: prefs.dtd:11
+msgid "Diacritical Marks"
+msgstr "علامات التشكيل"
+
+#: prefs.dtd:12
+msgid "Double Negatives"
+msgstr "النفي المضاعف"
+
+#: prefs.dtd:13
+msgid "Hidden Verbs"
+msgstr "الأفعال المخفية"
+
+#: atd.properties:24
+msgid "The proofreader has suggestions for this post. Are you sure you want to publish it?Press OK to publish your post, or Cancel to view the suggestions and edit your post."
+msgstr ""
+"المدقق الإملائي لديه اقتراحات لهذه التدوينة. هل أنت متأكد من أنك تريد نشرها؟\n"
+"\n"
+"إضغط موافق لنشر التدوينة, أو إلغاء لعرض الاقتراحات و تعديل التدوينة."
+
+#: atd.properties:12
+msgid "After the Deadline: Connection error"
+msgstr "After the Deadline: خطأ في الاتصال"
+
+#: atd.properties:25
+msgid "The proofreader has suggestions for this post. Are you sure you want to update it?Press OK to update your post, or Cancel to view the suggestions and edit your post."
+msgstr ""
+"المدقق الإملائي لديه اقتراحات لهذه التدوينة. هل أنت متأكد من أنك تريد تحديثها؟\n"
+"\n"
+"إضغط موافق لتحديث التدوينة, أو إلغاء لعرض الاقتراحات و تعديل التدوينة."

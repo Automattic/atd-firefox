@@ -1,0 +1,39 @@
+div {
+  padding: 5px;
+  margin: 5px;
+}
+
+.test, .answer {
+  float:left;
+  height: 150px;
+  width: 150px;
+  border: 1px solid #333;
+}
+
+.mceItemHidden {
+  border: 1px dashed #333;
+  padding: 5px;
+  display: inline-block;
+}
+
+br {
+  clear: both;
+}
+
+.one, .two, .three {
+  display: inline-block;
+  border: 1px solid #888;
+  padding: 3px;
+}
+
+.one {
+  background-color: red;
+}
+
+.two {
+  background-color: green;
+}
+
+.three {
+  background-color: blue;
+}
